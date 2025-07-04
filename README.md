@@ -43,8 +43,8 @@ Chaque dossier de projet contient :
 
 ## Contact
 
-- **Email** : [adresse@email.com](mailto:zwah972@gmail.com)
-- **LinkedIn** : [https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/théo-zwahlen-25941720a/)
+- **Email** : [zwah972@gmail.com](mailto:zwah972@gmail.com)
+- **LinkedIn** : [https://www.linkedin.com/in/théo-zwahlen-25941720a/](https://www.linkedin.com/in/théo-zwahlen-25941720a/)
 
 > Pour toute question, n’hésitez pas à me contacter ou à explorer les dossiers de projet.  
 
