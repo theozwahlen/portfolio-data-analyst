@@ -48,19 +48,8 @@ Ce projet illustre :
 
 ---
 
-### Résumé technique rapide
-
-- **Données** : 1 500 billets – 6 variables géométriques (longueur, hauteur gauche/droite, marges, diagonale)
-- **Valeurs manquantes** : imputation via régression linéaire
-- **Algorithmes testés** : Régression logistique, KNN, Random Forest, K-means (benchmark)
-- **Validation** : split train/test, métriques classiques (accuracy, F1-score), matrices de confusion
-- **Livrable final** : notebook applicatif prêt à l’emploi pour agents de terrain
-
----
-
 ## Pour aller plus loin
 
 - Les notebooks sont documentés et commentés pas à pas.
-- Possibilité d’ajouter de nouveaux modèles ou d’adapter à d’autres types de billets/fraudes.
 
 
