@@ -14,20 +14,15 @@ Chaque dossier de projet contient :
 - Les données traitées et outils utilisés  
 - Les livrables (dashboards, notebooks, etc)
 
-| N° | Projet | Description rapide | Principaux outils |
-|----|--------|-------------------|-------------------|
-| 01 | [Analyse e-commerce](./projet-ecommerce/) | Analyse des ventes, recommandations stratégiques | Excel, Power BI |
-| 02 | [Requêtes SQL & conception de base](./projet-sql/) | Modélisation, requêtes avancées, reporting | SQL, Power BI |
-| 03 | [Étude de santé publique (FAQ)](./projet-sante/) | Analyse exploratoire, data viz, pandas | Python (pandas, matplotlib) |
-| 04 | [Base de données immobilière](./projet-immo/) | Modélisation, analyse RGPD, dashboard | SQL, Power BI |
-| 05 | [Optimisation données boutique](./projet-boutique/) | Nettoyage, analyse, storytelling, dataviz | Python, Power BI |
-| 06 | [Dashboard IT Sanitoral](./projet-sanitoral/) | Suivi projets, Gantt, KPI interactif | Power BI |
-| 07 | [Indicateurs égalité F/H – RGPD](./projet-rh/) | Tableaux de bord RH, anonymisation | KNIME, Power BI |
-| 08 | [Analyse librairie](./projet-librairie/) | Comportement client, visualisation KPI | Power BI |
-| 09 | [Accès à l’eau potable](./projet-eau/) | Humanitaire, data viz, storytelling | Power BI, Tableau |
-| 10 | [Étude de marché internationale](./projet-marche/) | Open data, clustering, ACP | Python, Power BI |
-| 11 | [Détection de faux billets](./projet-faux-billets/) | Machine learning supervisé, ACP | Python, Power BI |
-| 12 | [Portfolio consultant – Aéroworld](./aeroworld/) | Portfolio pro, dashboards, posture analyste | Power BI, Loom |
+| N° | Projet                                    | Description rapide                                   | Outils principaux      |
+|----|-------------------------------------------|------------------------------------------------------|-----------------------|
+| 01 | Détection de faux billets                 | Machine learning supervisé                           | Python     |
+| 02 | Tableau de bord Power BI (Sanitoral)      | Modèle de données, Power Query, reporting            | Power BI              |
+| 03 | Diagnostic égalité F/H + RGPD             | KNIME, anonymisation, restitution plénière           | KNIME                 |
+| 04 | Analyse de ventes pour un e-commerce      | Analyse Excel, recommandations marketing             | Excel, Power BI       |
+| 05 | Étude de marché internationale            | Open Data, clustering, ACP                           | Python           |
+| 06 | Étude de santé publique             | Pandas, visualisation            | Python (pandas)       |
+| 07 | Portfolio professionnel (Aéroworld)       | Storytelling, livrables pro, posture analyste        | Power BI        |
 
 
 ---
