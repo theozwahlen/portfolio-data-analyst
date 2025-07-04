@@ -1,6 +1,6 @@
 # Portfolio Data Analyst – Théo ZWAHLEN
 
-Bienvenue sur mon portfolio de Data Analyst, j’ai rassemblé ici les analyses, dashboards, et outils que j’ai développés pendant mon parcours de formation Data Analyst. 
+Bienvenue sur mon portfolio de Data Analyst, j’ai rassemblé ici les analyses, dashboards, et outils que j’ai développés pendant mon parcours de formation.
 
 Vous trouverez ici une sélection des projets les plus marquants de mon parcours, réalisés dans des contextes métiers variés (entreprises, ONG, missions d’innovation…).  
 
