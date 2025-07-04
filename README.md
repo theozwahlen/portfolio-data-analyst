@@ -37,7 +37,7 @@ Chaque dossier de projet contient :
 - **Machine Learning & classification** (Random Forest, clustering, ACP)
 - **RGPD, anonymisation et qualité des données**
 - **Data storytelling & vulgarisation** (présentations, vidéos, documentation)
-- **Gestion de projet, posture de consultant** (animation d’atelier, accompagnement des équipes)
+- **Gestion de projet, posture de consultant** (accompagnement des équipes)
 
 ---
 
