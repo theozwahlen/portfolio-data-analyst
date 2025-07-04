@@ -2,7 +2,7 @@
 
 Bienvenue sur mon portfolio de Data Analyst, j’ai rassemblé ici les analyses, dashboards, et outils que j’ai développés pendant mon parcours de formation.
 
-Vous trouverez ici une sélection des projets les plus marquants de mon parcours, réalisés dans des contextes métiers variés (entreprises, ONG, missions d’innovation…).  
+Vous trouverez ici une sélection des projets les plus marquants de mon parcours, réalisés dans des contextes métiers variés (entreprises, ONG…).  
 
 Mon objectif : mettre en valeur ma capacité à analyser, modéliser, visualiser et restituer la donnée, et à adopter une posture de consultant orientée business.
 
