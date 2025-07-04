@@ -1,8 +1,8 @@
-# Projet 01 – Détection de faux billets en euros avec du machine learning
+# Projet 01 – Détection de faux billets avec machine learning
 
 ## Contexte
 
-Dans le cadre d’une mission pour l’ONCFM (Organisation nationale de lutte contre le faux-monnayage), j’ai été chargé de développer une application de prédiction automatique capable d’identifier si un billet en euros est authentique ou contrefait, à partir de caractéristiques géométriques scannées.
+Dans le cadre d’une mission pour l’ONCFM (Organisation nationale de lutte contre le faux-monnayage), j’ai été chargé de développer une application de prédiction automatique capable d’identifier si un billet est authentique ou contrefait, à partir de caractéristiques géométriques scannées.
 
 L’objectif : **accélérer la détection sur le terrain grâce au machine learning**, et proposer aux agents une application simple, réutilisable sur de nouveaux lots de billets.
 
