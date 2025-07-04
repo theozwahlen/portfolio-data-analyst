@@ -17,7 +17,7 @@ Chaque dossier de projet contient :
 
 | N° | Projet                                    | Description rapide                                   | Outils principaux      |
 |----|-------------------------------------------|------------------------------------------------------|-----------------------|
-| 01 | Détection de faux billets                 | Machine learning supervisé                           | Python     |
+| 01 | [Détection de faux billets](1.%20Détectez%20des%20faux%20billets%20avec%20Python)                 | Machine learning supervisé                           | Python     |
 | 02 | Tableau de bord Power BI (Sanitoral)      | Modèle de données, Power Query, reporting            | Power BI              |
 | 03 | Diagnostic égalité F/H + RGPD             | KNIME, anonymisation, restitution plénière           | KNIME                 |
 | 04 | Analyse de ventes pour un e-commerce      | Analyse Excel, recommandations marketing             | Excel, Power BI       |
