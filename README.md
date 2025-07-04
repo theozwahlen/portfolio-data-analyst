@@ -1,5 +1,4 @@
-# Portfolio Data Analyst – [Ton prénom et Nom]
-
+# Portfolio Data Analyst – Théo ZWAHLEN
 Bienvenue sur mon portfolio de Data Analyst, construit lors de mon parcours OpenClassrooms.
 
 ## Sommaire
