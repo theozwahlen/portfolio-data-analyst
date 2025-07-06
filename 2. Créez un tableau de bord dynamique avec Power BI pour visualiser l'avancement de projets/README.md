@@ -12,7 +12,6 @@ Le projet s’articule autour de la compréhension du besoin métier, de la pré
 ## Démarche suivie
 
 - **Analyse du besoin métier**  
-  - Rédaction d’une note de cadrage détaillant les enjeux et attentes.
   - Élaboration du *Product Strategy Canvas* pour formaliser les user stories et s’assurer d’une vision claire côté métier.
   - Réalisation d’un *mockup* du dashboard pour validation en amont.
 
