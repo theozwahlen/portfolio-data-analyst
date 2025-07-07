@@ -2,8 +2,8 @@
 
 ## Contexte
 
-Dans ce projet, j’interviens comme Data Analyst au sein d’un cabinet de conseil en transformation digitale.  
-La direction RH m’a confié l’automatisation d’un diagnostic sur l’égalité professionnelle femmes-hommes, en s’appuyant sur des données RH issues du SIRH.  
+Dans ce projet, j’ai travaillé en tant que Data Analyst au sein d’un cabinet de conseil spécialisé dans la transformation digitale.  
+La direction des ressources humaines m’a confié l’automatisation d’un diagnostic sur l’égalité professionnelle femmes-hommes, en s’appuyant sur des données RH issues du SIRH.  
 L’objectif : produire un rapport fiable, conforme au RGPD, et compréhensible par l’ensemble de l’entreprise.
 
 ---
