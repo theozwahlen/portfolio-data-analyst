@@ -32,12 +32,8 @@ Le projet s’articule autour de la compréhension du besoin métier, de la pré
 
 ## Livrables du dossier
 
-- **Jeu de données sources** : fichiers bruts et dictionnaire des données.
 - **Tableau de bord Power BI** : fichier `.pbix` complet, prêt à l’emploi.
-- **Documentation** :
-    - Présentation structurée (PDF ou PPT) pour la soutenance.
-    - Note de cadrage et Product Strategy Canvas.
-    - Procédure illustrée pour la mise à jour automatique des données et la compréhension du modèle.
+- Présentation structurée PDF.
 
 ---
 
@@ -47,13 +43,6 @@ Le projet s’articule autour de la compréhension du besoin métier, de la pré
 - Ma maîtrise de **Power BI** : modélisation, automatisation, Power Query, DAX, et conception de dashboards avancés.
 - Mon sens du *data storytelling* : vulgarisation des résultats, clarté des visualisations, structuration pédagogique du livrable.
 - Une attention à l’autonomie du client, grâce à une documentation claire sur la mise à jour des données.
-
----
-
-### Pour aller plus loin
-
-- Le projet peut être enrichi par des fonctionnalités avancées : alertes automatisées sur les retards, visualisation dynamique par rôle, intégration de commentaires utilisateurs.
-- Le modèle est réutilisable et adaptable à d’autres clients ou contextes projets.
 
 ---
 
