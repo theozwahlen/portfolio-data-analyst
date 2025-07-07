@@ -34,7 +34,7 @@ L’objectif : produire un rapport fiable, conforme au RGPD, et compréhensible 
 ## Livrables du dossier
 
 - **Workflow KNIME** : fichier `.knwf` complet et annoté
-- **Présentation finale** : support synthétique (PPT ou PDF) pour la plénière
+- **Présentation finale** : support synthétique PDF
 
 ---
 
