@@ -27,7 +27,6 @@ Le projet s’inscrivait dans une démarche de data visualisation accessible et 
 
 - **Présentation synthétique** : rapport PDF (5 slides) avec sélection des graphiques, analyse et recommandations stratégiques.
 - **Tableau Excel** : fichier complet pour le suivi et l’analyse des clients affiliés, avec visualisation.
-- **Énoncé de la mission** : document d’origine du projet.
 
 ---
 
@@ -37,13 +36,6 @@ Le projet s’inscrivait dans une démarche de data visualisation accessible et 
 - Mon aptitude à construire une restitution claire, dynamique et adaptée à un public non technique.
 - Ma rigueur dans la synthèse, la sélection des indicateurs, et la formulation de recommandations concrètes.
 - Une maîtrise des outils de reporting (Excel, data visualisation) et du storytelling appliqué à la data.
-
----
-
-### Pour aller plus loin
-
-- Ce projet peut être étendu à l’analyse multi-mois ou à d’autres axes stratégiques (fidélisation, parcours client, offres saisonnières…).
-- Les supports sont réutilisables pour d’autres cycles de reporting ou d’autres équipes métier.
 
 ---
 
