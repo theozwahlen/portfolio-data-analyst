@@ -67,6 +67,8 @@ Chaque dossier de projet contient :
 
 ---
 
+![Dashboard Profil](./Images/profil.png)
+
 ## Contact
 
 - **Email** : [zwah972@gmail.com](mailto:zwah972@gmail.com)
