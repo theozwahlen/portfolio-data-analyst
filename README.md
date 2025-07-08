@@ -32,7 +32,7 @@ Mon objectif : mettre en valeur ma capacité à analyser, modéliser, visualis
 
 Chaque dossier de projet contient :  
 - Un résumé du contexte et des objectifs  
-- Les données traitées et outils utilisés  
+- Une explication des données traitées et outils utilisés  
 - Les livrables (dashboards, notebooks, etc)
 
 | N°  | Projet                                                                                                            | Description rapide                | Outils principaux   |
