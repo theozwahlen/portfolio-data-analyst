@@ -1,5 +1,28 @@
 # Portfolio Data Analyst – Théo ZWAHLEN
 
+
+Bienvenue sur mon portfolio de Data Analyst, créé spécifiquement pour répondre à la demande du client Aéroworld (OpenClassrooms).
+
+## Projet présenté : Mission Consultant Data pour Aéroworld
+
+Ce portfolio regroupe **l’intégralité des livrables réalisés dans le cadre du projet Aéroworld** :
+- Analyse du besoin client et cadrage de la mission
+- Dashboards (profil & veille métier)
+- Documentation des procédures
+- Vidéo Loom de présentation
+- Explications de la méthodologie suivie et de la posture consultant adoptée
+
+**Objectif** : démontrer la maîtrise des compétences attendues, la rigueur méthodologique, l’esprit d’innovation et la posture professionnelle d’un consultant data au service d’un grand compte.
+
+---
+
+## Accès direct aux livrables du projet Aéroworld
+
+👉 [Dossier principal du projet Aéroworld](./7.%20Créez%20votre%20portfolio%20de%20professionnel%20de%20la%20data%20pour%20une%20entreprise%20du%20secteur%20aéronautique/)
+
+---
+
+
 Bienvenue sur mon portfolio de Data Analyst, j’ai rassemblé ici les analyses, dashboards, et outils que j’ai développés pendant mon parcours de formation.
 
 Vous trouverez ici une sélection des projets les plus marquants de mon parcours, réalisés dans des contextes métiers variés (entreprises, ONG…).  
@@ -26,7 +49,6 @@ Chaque dossier de projet contient :
 | 07  | [Portfolio professionnel (Aéroworld)](7.%20Cr%C3%A9ez%20votre%20portfolio%20de%20professionnel%20de%20la%20data) | Storytelling, livrables pro, posture analyste | Power BI     |
 
 
-
 ---
 
 ## Compétences clés mobilisées
@@ -39,6 +61,7 @@ Chaque dossier de projet contient :
 - **RGPD, anonymisation et qualité des données**
 - **Data storytelling & vulgarisation** (présentations, vidéos, documentation)
 - **Gestion de projet, posture de consultant** (accompagnement des équipes)
+
 
 ---
 
