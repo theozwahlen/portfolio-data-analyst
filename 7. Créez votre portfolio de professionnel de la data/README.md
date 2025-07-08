@@ -40,7 +40,7 @@ Pour répondre à la demande d’Aéroworld, j’ai mené une démarche structur
 
 ---
 
-## Accès aux livrables
+## Livrables du dossier
 
 - **Carte mentale** (organisation du projet, compétences visées)
 - **Cahier des charges fonctionnel**
