@@ -1,4 +1,4 @@
-# Portfolio professionnel – Mission Data Analyst Chef de Projet pour Aéroworld
+# Mission Data Analyst Chef de Projet pour Aéroworld
 
 Bienvenue dans ce portfolio, conçu pour répondre à la demande d’Aéroworld dans le cadre du recrutement d’un Data Analyst chef de projet, orienté innovation et management.
 
