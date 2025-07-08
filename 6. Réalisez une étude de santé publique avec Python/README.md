@@ -29,10 +29,7 @@ Ma mission : exploiter et analyser les données historiques de 2013 à 2017, e
 ## Livrables du dossier
 
 - **Notebook Python** : toutes les étapes d’analyse et de traitement, bien commentées
-- **Version PDF du notebook** : pour faciliter la lecture ou l’impression
-- **Présentation synthétique** : support de restitution des résultats principaux (PPT, PDF…)
-- **Fichiers de données et lexique** : inputs et documentations associées
-- **Énoncé du projet** : référence de la mission
+- **Présentation synthétique** : support de restitution des résultats principaux (PDF)
 
 ---
 
@@ -42,13 +39,6 @@ Ma mission : exploiter et analyser les données historiques de 2013 à 2017, e
 - Ma capacité à nettoyer, structurer et analyser des données réelles avec Python (pandas, matplotlib…)
 - Mon attention à la clarté et à la pédagogie dans la restitution de résultats à des non-spécialistes
 - Mon sens du détail dans la documentation des étapes, pour garantir la reproductibilité et la conformité aux exigences du projet
-
----
-
-### Pour aller plus loin
-
-- La démarche mise en place peut être adaptée à d’autres thématiques de santé publique ou périodes historiques
-- Les visualisations et indicateurs peuvent servir de base à des études complémentaires ou à des actions de sensibilisation
 
 ---
 
