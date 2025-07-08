@@ -1,3 +1,5 @@
+![Dashboard Profil](./Images/data.jpg)
+
 # Portfolio Data Analyst Aéroworld – Théo ZWAHLEN
 
 
