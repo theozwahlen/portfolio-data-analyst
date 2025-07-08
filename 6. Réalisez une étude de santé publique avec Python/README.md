@@ -1,4 +1,4 @@
-# Projet 06 – Étude de santé publique avec Python (FAO)
+# Projet 06 – Étude de santé publique avec Python 
 
 ## Contexte
 
