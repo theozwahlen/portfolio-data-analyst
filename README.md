@@ -15,7 +15,7 @@ Ce portfolio regroupe **l’intégralité des livrables réalisés dans le cadre
 
 ---
 
-![Dashboard Profil](./images/aeroworld.png)
+![Dashboard Profil](./Images/aeroworld.png)
 
 
 ## Accès direct aux livrables du projet Aéroworld
