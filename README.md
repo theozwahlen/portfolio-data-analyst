@@ -15,6 +15,9 @@ Ce portfolio regroupe **l’intégralité des livrables réalisés dans le cadre
 
 ---
 
+![Dashboard Profil](./images/aeroworld.png)
+
+
 ## Accès direct aux livrables du projet Aéroworld
 
 👉 [Dossier principal du projet Aéroworld](7.%20Cr%C3%A9ez%20votre%20portfolio%20de%20professionnel%20de%20la%20data)
