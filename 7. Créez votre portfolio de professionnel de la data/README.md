@@ -4,8 +4,6 @@ Bienvenue dans ce portfolio, conçu pour répondre à la demande d’Aéroworld 
 
 ## Présentation de la mission
 
-![Dashboard Profil](./Images/aeroworld.png)
-
 Aéroworld recherche un Data Analyst capable de :
 - Piloter des projets data de bout en bout
 - Formaliser et cadrer les besoins métiers complexes
