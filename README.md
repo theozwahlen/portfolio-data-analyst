@@ -50,7 +50,7 @@ Chaque dossier de projet contient :
 | 06  | [Étude de santé publique](6.%20R%C3%A9alisez%20une%20%C3%A9tude%20de%20sant%C3%A9%20publique%20avec%20Python)   | Pandas, visualisation             | Python (pandas)     |
 | 07  | [Portfolio professionnel (Aéroworld)](7.%20Cr%C3%A9ez%20votre%20portfolio%20de%20professionnel%20de%20la%20data) | Storytelling, livrables pro, posture analyste | Power BI     |
 
-
+<img src="./Images/data2.jpg" alt="Aéronef Aéroworld" width="1100"/>
 ---
 
 ## Compétences clés mobilisées
@@ -66,8 +66,6 @@ Chaque dossier de projet contient :
 
 
 ---
-
-<img src="./Images/data2.jpg" alt="Aéronef Aéroworld" width="1100"/>
 
 
 ## Contact
