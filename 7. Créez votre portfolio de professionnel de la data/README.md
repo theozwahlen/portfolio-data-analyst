@@ -1,4 +1,4 @@
-<img src="./Images/data2.jpg" alt="Aéronef Aéroworld" width="1100"/>
+!<img src="./Images/data2.jpg" alt="Aéronef Aéroworld" width="1100"/>
 
 # Mission Data Analyst Chef de Projet pour Aéroworld
 
