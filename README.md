@@ -67,7 +67,7 @@ Chaque dossier de projet contient :
 
 ---
 
-<img src="./Images/data2.jpg" alt="Aéronef Aéroworld" width="900"/>
+<img src="./Images/data2.jpg" alt="Aéronef Aéroworld" width="1100"/>
 
 
 ## Contact
