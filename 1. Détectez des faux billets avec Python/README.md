@@ -22,6 +22,8 @@ L’objectif : **accélérer la détection sur le terrain grâce au machine lear
 - **Choix du modèle final** : sélection du modèle le plus robuste et interprétable.
 - **Développement d’une mini-application dans un notebook**, permettant de prédire la nature d’un billet à partir de ses caractéristiques.
 
+<img src="../Images/billet.png" alt="Dashboard Profil" width="1100"/>
+
 ---
 
 ## Livrables du dossier
