@@ -23,7 +23,7 @@ Le projet s’inscrivait dans une démarche de data visualisation accessible et 
 - **Analyse des clients affiliés**
   - Complétion d’un tableau Excel dédié aux clients affiliés, intégrant calculs, formules, et une infographie personnalisée pour visualiser la répartition et l’évolution de ce segment spécifique.
  
-<img src="../Images/barre.png" alt="Dashboard Profil" width="500"/>
+<img src="../Images/barre.png" alt="Dashboard Profil" width="300"/>
 
 ---
 
