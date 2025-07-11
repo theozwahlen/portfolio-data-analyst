@@ -1,3 +1,5 @@
+<img src="../Images/food.png" alt="Dashboard Profil" width="1100"/>
+
 # Projet 06 – Étude de santé publique avec Python 
 
 ## Contexte
@@ -23,6 +25,8 @@ Ma mission : exploiter et analyser les données historiques de 2013 à 2017, e
   - Structuration d’un support de présentation pour la soutenance (résultats, analyses, points saillants)
   - Intégration d’analyses complémentaires ou d’approches innovantes selon les observations
   - Documentation des choix méthodologiques pour faciliter la reproduction et la compréhension par l’équipe
+
+<img src="../Images/alimentaire.png" alt="Dashboard Profil" width="500"/>
 
 ---
 
