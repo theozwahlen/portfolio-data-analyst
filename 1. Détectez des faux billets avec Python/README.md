@@ -1,3 +1,5 @@
+<img src="../Images/money.webp" alt="Dashboard Profil" width="1100"/>
+
 # Projet 01 – Détection de faux billets avec machine learning
 
 ## Contexte
