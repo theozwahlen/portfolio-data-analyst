@@ -26,12 +26,10 @@ L’objectif : **accélérer la détection sur le terrain grâce au machine lear
 
 ## Ce que vous trouverez dans ce dossier
 
-- **Fichier source** : les fichiers bruts fournis (jeu de données complet).
 - **Livrables** :
     - *Notebook analyse* : préparation, exploration, entraînement et évaluation des modèles
     - *Notebook application* : application de prédiction utilisable directement (chargement d’un fichier et prédiction en un clic)
     - *Présentation finale* : support PPT synthétique des résultats et recommandations
-    - *Mission.pdf* : énoncé complet du projet
 
 ---
 
