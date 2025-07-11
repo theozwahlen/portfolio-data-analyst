@@ -1,3 +1,6 @@
+<img src="../Images/sanitoral.png" alt="Dashboard Profil" width="1100"/>
+
+
 # Projet 02 – Tableau de bord Power BI (Sanitoral) : Suivi d’avancement de projets
 
 ## Contexte
