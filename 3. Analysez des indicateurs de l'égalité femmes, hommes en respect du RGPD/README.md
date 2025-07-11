@@ -1,3 +1,5 @@
+<img src="../Images/Homme.png" alt="Dashboard Profil" width="1100"/>
+
 # Projet 03 – Diagnostic Égalité Femmes-Hommes (KNIME & RGPD)
 
 ## Contexte
@@ -28,6 +30,8 @@ L’objectif : produire un rapport fiable, conforme au RGPD, et compréhensible 
   - Calcul du score global d’égalité femmes-hommes de l’entreprise
   - Analyse des écarts et interprétation des résultats
   - Rédaction d’un rapport synthétique : méthodologie, indicateurs, conformité RGPD, axes d’amélioration
+
+<img src="../Images/Knime.png" alt="Dashboard Profil" width="500"/>
 
 ---
 
