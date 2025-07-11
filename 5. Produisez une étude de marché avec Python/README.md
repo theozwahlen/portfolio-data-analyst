@@ -1,3 +1,5 @@
+<img src="../Images/etude.jpg" alt="Dashboard Profil" width="1100"/>
+
 # Projet 05 – Étude de marché internationale avec Python
 
 ## Contexte
@@ -26,6 +28,8 @@ L’objectif était de structurer une démarche analytique complète, de la coll
 
 - **Restitution adaptée au public dirigeant**
   - Construction d’une présentation synthétique, vulgarisée, orientée action pour le COMEX.
+
+<img src="../Images/cluster.png" alt="Dashboard Profil" width="500"/>
 
 ---
 
