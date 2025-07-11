@@ -8,7 +8,7 @@ L’objectif : **accélérer la détection sur le terrain grâce au machine lear
 
 ---
 
-## Ce que j’ai fait
+## Démarche suivie
 
 - **Préparation des données** : 1 500 billets (1 000 vrais / 500 faux), 6 caractéristiques géométriques par billet.
 - **Analyse exploratoire** : traitement des valeurs manquantes (imputation par régression linéaire), visualisation des distributions, corrélations, outliers, etc.
@@ -24,7 +24,7 @@ L’objectif : **accélérer la détection sur le terrain grâce au machine lear
 
 ---
 
-## Ce que vous trouverez dans ce dossier
+## Livrables du dossier
 
 - **Livrables** :
     - *Notebook analyse* : préparation, exploration, entraînement et évaluation des modèles
