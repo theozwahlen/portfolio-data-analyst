@@ -31,7 +31,7 @@ Le projet s’articule autour de la compréhension du besoin métier, de la pré
     - la synthèse stratégique pour les décideurs.
   - Application des principes de *data storytelling* pour rendre le dashboard accessible, lisible et pertinent pour tous les utilisateurs (directeurs, chefs de projet…).
  
-<img src="../Images/dent.png" alt="Dashboard Profil" width="1100"/>
+<img src="../Images/dent.png" alt="Dashboard Profil" width="500"/>
 
 ---
 
