@@ -20,7 +20,7 @@ L’objectif : **accélérer la détection sur le terrain grâce au machine lear
   - K-means (non supervisé, utilisé pour la comparaison)
 - **Comparaison des performances** : précision, rappel, F1-score, matrice de confusion (analyse des faux positifs et faux négatifs).
 - **Choix du modèle final** : sélection du modèle le plus robuste et interprétable.
-- **Développement d’une mini-application dans un notebook**, permettant de prédire en direct la nature d’un billet à partir de ses caractéristiques (fichier test à charger).
+- **Développement d’une mini-application dans un notebook**, permettant de prédire la nature d’un billet à partir de ses caractéristiques.
 
 ---
 
