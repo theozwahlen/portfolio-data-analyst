@@ -24,6 +24,8 @@ Ce portfolio réunit :
 - **Une vidéo de formation** pour l’accompagnement des équipes
 - **Une documentation utilisateur** claire, accessible et reproductible
 
+<img src="../Images/dashboard.png" alt="Dashboard Profil" width="500"/>****
+
 ---
 
 ## Démarche
