@@ -1,6 +1,6 @@
 <img src="../Images/Homme.png" alt="Dashboard Profil" width="1100"/>
 
-# Projet 03 – Diagnostic Égalité Femmes-Hommes (KNIME & RGPD)
+# Projet 3 – Diagnostic Égalité Femmes-Hommes (KNIME & RGPD)
 
 ## Contexte
 
