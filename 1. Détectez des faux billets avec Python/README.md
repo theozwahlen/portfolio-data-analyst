@@ -1,6 +1,6 @@
 <img src="../Images/money.png" alt="Dashboard Profil" width="1100"/>
 
-# Projet 01 – Détection de faux billets avec machine learning
+# Projet 1 – Détection de faux billets avec machine learning
 
 ## Contexte
 
