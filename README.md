@@ -48,8 +48,7 @@ Chaque dossier de projet contient :
 | 04  | [Analyse de ventes pour un e-commerce](4.%20Faites%20une%20analyse%20de%20ventes%20pour%20un%20e-commerce)       | Reporting ventes et clients | Excel, Power BI    |
 | 05  | [Étude de marché internationale](5.%20Produisez%20une%20%C3%A9tude%20de%20march%C3%A9%20avec%20Python)           | Segmentation pays, clustering, ACP        | Python              |
 | 06  | [Étude de santé publique](6.%20R%C3%A9alisez%20une%20%C3%A9tude%20de%20sant%C3%A9%20publique%20avec%20Python)   | Visualisation sous-nutrition          | Python     |
-| 07  | [Portfolio professionnel (Aéroworld)](7.%20Cr%C3%A9ez%20votre%20portfolio%20de%20professionnel%20de%20la%20data) | Pilotage projet, dashboards, formation | Power BI, gestion projet
-    |
+| 07  | [Portfolio professionnel (Aéroworld)](7.%20Cr%C3%A9ez%20votre%20portfolio%20de%20professionnel%20de%20la%20data) | Pilotage projet, dashboards, formation | Power BI, gestion projet|
 
 ---
 
