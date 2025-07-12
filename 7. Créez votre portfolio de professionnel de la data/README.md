@@ -18,7 +18,7 @@ Ce portfolio réunit :
 - **L’analyse des besoins métier et le cahier des charges de la mission**
 - **La carte mentale de structuration du projet**
 - **Le diagramme de Gantt**
-- **Les dashboards Power BI :**
+- **Les dashboards Power BI et leurs mock-up :**
   - Dashboard de présentation du profil et des compétences
   - Dashboard de veille métier 
 - **Une vidéo de formation** pour l’accompagnement des équipes
