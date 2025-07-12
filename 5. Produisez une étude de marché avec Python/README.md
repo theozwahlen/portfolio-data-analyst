@@ -12,7 +12,7 @@ L’objectif était de structurer une démarche analytique complète, de la coll
 ## Démarche suivie
 
 - **Collecte et préparation des données**
-  - Constitution d’un jeu de données à partir de plusieurs sources ouvertes (FAO, Banque mondiale, autres portails).
+  - Agrégation de données issues de portails open data (FAO, Banque mondiale, autres portails).
   - Application de la méthode PESTEL pour sélectionner au moins 8 variables stratégiques (démographie, économie, consommation, environnement, stabilité politique, etc.).
   - Création de nouvelles variables via du feature engineering.
   - Nettoyage, normalisation et intégration des données pour garantir leur fiabilité sur plus de 100 pays.
@@ -43,9 +43,9 @@ L’objectif était de structurer une démarche analytique complète, de la coll
 
 ## Ce que ce projet démontre
 
-- Ma capacité à construire une étude de marché à partir de données ouvertes et à intégrer des variables hétérogènes.
-- Mes compétences en analyse statistique avancée (ACP, clustering) et en feature engineering.
-- Mon autonomie dans la recherche, la préparation et la justification méthodologique des données.
+- Capacité à orchestrer une étude de marché complexe sur données hétérogènes
+- Maîtrise des techniques d’analyse multivariée et de clustering (ACP, CAH, k-means)
+- Autonomie dans la recherche, la sélection et la justification des choix méthodologiques
 - Mon aptitude à présenter des résultats de façon claire, synthétique et exploitable par une direction non spécialiste.
 
 ---
