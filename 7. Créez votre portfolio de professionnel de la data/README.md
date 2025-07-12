@@ -51,6 +51,7 @@ Pour répondre à la demande d’Aéroworld, j’ai mené une démarche structur
 - **Cahier des charges fonctionnel**
 - **Analyse du besoin métier Aéroworld**
 - **Diagramme de Gantt**
+- **Les mock-up des Dashboard**
 - **Dashboard Power BI : présentation du profil**
 - **Dashboard Power BI : veille métier**
 - **Vidéo de formation Power bi (prise en main, best practices)**
