@@ -1,6 +1,6 @@
 <img src="../Images/etude.png" alt="Dashboard Profil" width="1100"/>
 
-# Projet 05 – Étude de marché internationale avec Python
+# Projet 5 – Étude de marché internationale avec Python
 
 ## Contexte
 
