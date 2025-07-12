@@ -1,6 +1,6 @@
 <img src="../Images/ecommerce.png" alt="Dashboard Profil" width="1100"/>
 
-# Projet 04 – Analyse de ventes pour un e-commerce
+# Projet 4 – Analyse de ventes pour un e-commerce
 
 ## Contexte
 
