@@ -5,6 +5,7 @@
 ## Contexte
 
 Dans le cadre d’une mission pour un cabinet de conseil en transformation digitale, j’ai été chargé par la direction RH de mettre en place un diagnostic automatisé sur l’égalité professionnelle femmes-hommes, en exploitant les données du SIRH interne.
+
 L’objectif : fournir un rapport fiable, conforme au RGPD et accessible à toutes les parties prenantes de l’entreprise.
 
 ---
