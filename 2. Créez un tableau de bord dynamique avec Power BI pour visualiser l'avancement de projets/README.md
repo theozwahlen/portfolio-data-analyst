@@ -1,15 +1,14 @@
 <img src="../Images/sanitoral.png" alt="Dashboard Profil" width="1100"/>
 
 
-# Projet 02 – Tableau de bord Power BI : Suivi d’avancement de projets
+# Projet 2 – Tableau de bord Power BI : Suivi d’avancement de projets
 
 ## Contexte
 
-Dans ce projet, j’interviens comme Data Analyst pour ESN Data, mandaté chez le client Sanitoral, entreprise internationale spécialisée dans les soins bucco-dentaires.  
-Leur objectif : disposer d’un **tableau de bord dynamique** pour suivre l’avancement de leurs projets, détecter les retards, visualiser les coûts, et faciliter la prise de décision pour les directeurs.
+Pour ce projet, j’ai endossé le rôle de Data Analyst chez ESN Data, en mission auprès de Sanitoral, entreprise internationale spécialisée dans les soins bucco-dentaires.
+Leur demande : un tableau de bord dynamique permettant de piloter l’avancement des projets, repérer rapidement les retards, analyser les coûts, et offrir aux décideurs une vision claire pour orienter leurs actions.
 
-Le projet s’articule autour de la compréhension du besoin métier, de la préparation automatisée des données, puis de la création d’un dashboard interactif sous Power BI.
-
+L’ensemble de la démarche s’est structuré autour de la compréhension approfondie du besoin métier, de la préparation automatisée des données, puis de la conception d’un dashboard interactif sur Power BI.
 ---
 
 ## Démarche suivie
