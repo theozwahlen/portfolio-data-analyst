@@ -4,8 +4,8 @@
 
 ## Contexte
 
-Dans le cadre de mon expérience de Data Analyst au sein de l’entreprise de grande distribution Le Grand Marché, j’ai réalisé une analyse mensuelle des performances commerciales afin d’appuyer les décisions du service marketing.  
-Le projet s’inscrivait dans une démarche de data visualisation accessible et synthétique, avec pour objectif de présenter les résultats de manière claire à la direction, en mettant en lumière les tendances clés du dernier mois.
+Au cours de mon expérience chez Le Grand Marché, j’ai réalisé un diagnostic mensuel des ventes afin d’apporter un éclairage opérationnel au service marketing et à la direction.
+L’objectif principal était de synthétiser les résultats et tendances du mois écoulé dans un format visuel et facilement exploitable, en mettant l’accent sur les évolutions significatives et les leviers de progression.
 
 ---
 
