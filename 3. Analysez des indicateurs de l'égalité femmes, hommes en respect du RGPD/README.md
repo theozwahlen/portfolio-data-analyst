@@ -4,15 +4,14 @@
 
 ## Contexte
 
-Dans ce projet, j’ai travaillé en tant que Data Analyst au sein d’un cabinet de conseil spécialisé dans la transformation digitale.  
-La direction des ressources humaines m’a confié l’automatisation d’un diagnostic sur l’égalité professionnelle femmes-hommes, en s’appuyant sur des données RH issues du SIRH.  
-L’objectif : produire un rapport fiable, conforme au RGPD, et compréhensible par l’ensemble de l’entreprise.
+Dans le cadre d’une mission pour un cabinet de conseil en transformation digitale, j’ai été chargé par la direction RH de mettre en place un diagnostic automatisé sur l’égalité professionnelle femmes-hommes, en exploitant les données du SIRH interne.
+L’objectif : fournir un rapport fiable, conforme au RGPD et accessible à toutes les parties prenantes de l’entreprise.
 
 ---
 
 ## Démarche suivie
 
-- **Sélection des indicateurs clés**
+- **Identification des indicateurs clés**
   - Analyse des recommandations officielles (ministère du Travail)
   - Choix de 6 indicateurs pertinents
 
