@@ -20,7 +20,7 @@ L’enjeu est double : fiabiliser et accélérer la détection directement sur l
   - K-means (non supervisé, utilisé pour la comparaison)
 - **Évaluation comparative** : précision, rappel, F1-score, matrice de confusion (analyse des faux positifs et faux négatifs).
 - **Choix du modèle final** : sélection du modèle le plus robuste et interprétable.
-- **Développement d’un outil métier :**, Création d’une mini-application (notebook interactif) permettant aux agents de charger facilement un fichier et d’obtenir la prédiction pour chaque billet.
+- **Développement d’un outil métier :** Création d’une mini-application (notebook interactif) permettant aux agents de charger facilement un fichier et d’obtenir la prédiction pour chaque billet.
 
 <img src="../Images/billet.png" alt="Dashboard Profil" width="400"/>
 
