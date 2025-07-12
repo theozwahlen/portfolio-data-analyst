@@ -7,6 +7,7 @@
 
 Pour ce projet, j’ai endossé le rôle de Data Analyst chez ESN Data, en mission auprès de Sanitoral, entreprise internationale spécialisée dans les soins bucco-dentaires.
 Leur demande : un tableau de bord dynamique permettant de piloter l’avancement des projets, repérer rapidement les retards, analyser les coûts, et offrir aux décideurs une vision claire pour orienter leurs actions.
+
 L’ensemble de la démarche s’est structuré autour de la compréhension approfondie du besoin métier, de la préparation automatisée des données, puis de la conception d’un dashboard interactif sur Power BI.
 ---
 
