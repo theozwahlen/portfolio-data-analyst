@@ -1,11 +1,11 @@
 <img src="../Images/food.png" alt="Dashboard Profil" width="1100"/>
 
-# Projet 06 – Étude de santé publique avec Python 
+# Projet 6 – Étude de santé publique avec Python 
 
 ## Contexte
 
-Pour ce projet, j’ai rejoint une équipe de recherche à la FAO (Organisation des Nations Unies pour l’alimentation et l’agriculture), afin de contribuer à une grande étude sur la sous-nutrition mondiale.  
-Ma mission : exploiter et analyser les données historiques de 2013 à 2017, en poursuivant le travail initié par l’analyste précédent, et en développant des analyses complémentaires pour enrichir l’état des lieux.
+Dans le cadre de ce projet, j’ai rejoint une équipe de recherche de la FAO (Organisation des Nations Unies pour l’alimentation et l’agriculture) pour approfondir l’analyse de la sous-nutrition à l’échelle globale.
+Ma mission : poursuivre l’exploration entamée par un analyste précédent, en m’appuyant sur les données historiques de 2013 à 2017, et proposer des angles d’analyse inédits afin d’enrichir la compréhension du phénomène.
 
 ---
 
@@ -16,7 +16,7 @@ Ma mission : exploiter et analyser les données historiques de 2013 à 2017, e
   - Nettoyage, préparation et vérification de la cohérence des jeux de données
   - Organisation du notebook pour garantir clarté et traçabilité des étapes
 
-- **Construction d’indicateurs et visualisations**
+- **Analyse et visualisation**
   - Calcul des indicateurs clés de la sous-nutrition et évolution sur la période
   - Comparaison géographique entre zones, pays ou continents
   - Création de graphiques synthétiques et accessibles pour appuyer la restitution
@@ -39,10 +39,10 @@ Ma mission : exploiter et analyser les données historiques de 2013 à 2017, e
 
 ## Ce que ce projet démontre
 
-- Mon autonomie dans la reprise et la poursuite d’un projet existant
-- Ma capacité à nettoyer, structurer et analyser des données réelles avec Python (pandas, matplotlib…)
-- Mon attention à la clarté et à la pédagogie dans la restitution de résultats à des non-spécialistes
-- Mon sens du détail dans la documentation des étapes, pour garantir la reproductibilité et la conformité aux exigences du projet
+- Prise en main et poursuite efficace d’un projet data en cours
+- Nettoyage, structuration et analyse de données réelles avec Python (pandas, matplotlib…)
+- Restitution claire, vulgarisation et pédagogie pour un public non spécialiste
+- Sens du détail dans la documentation pour garantir la conformité et la continuité du projet
 
 ---
 
